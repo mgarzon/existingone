@@ -1,2 +1,6 @@
 Miguel Garzon
+<<<<<<< HEAD
 Roger Selzler from branch
+=======
+Roger Selzler
+>>>>>>> e401d76d0e3d6387141ba81bb6bc444d213d31ba
